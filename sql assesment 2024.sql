@@ -1,0 +1,15 @@
+use social_media; 
+select * from users;
+select * from photos;
+select * from videos;
+select * from post;
+select* from comments;
+select * from post_likes;
+select * from post_likes;
+select * from comment_likes;
+select * from follows;
+select * from hashtags;
+select * from hashtag_follow;
+select * from post_tags;
+select * from bookmarks;
+select * from login;
